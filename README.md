@@ -24,4 +24,4 @@ un **gran poder** reguiere _una_ gran *responsabilidad*
   *Subtime
   *Subtime
   *Subtime
-![Batman](https://www.ordenadorpolitico.com/affleck-asegura-que-entregara-un-batman-mas-apegado-al-comic/)
+![Batman](https://www.ordenadorpolitico.com/affleck-asegura-que-entregara-un-batman-mas-apegado-al-comic/#prettyphoto/0/)
