@@ -21,7 +21,7 @@ un **gran poder** reguiere _una_ gran *responsabilidad*
 2. item 
 3- item 
 
-  *Subtime
-  *Subtime
-  *Subtime
+  * Subtime
+  * Subtime
+  * Subtime
 ![Batman](https://www.ordenadorpolitico.com/wp-content/uploads/2017/08/Batman.jpg)
