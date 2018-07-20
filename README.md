@@ -19,7 +19,7 @@ un **gran poder** reguiere _una_ gran *responsabilidad*
 
 1. item
 2. item 
-3- item 
+3. item 
 
   * Subtime
   * Subtime
